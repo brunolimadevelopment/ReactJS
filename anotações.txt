@@ -1,0 +1,5 @@
+npm install -g create-react-app
+
+o react utiliza as versões mais recentes do javascript e do ES6.
+
+O create-react-app já vem com a transpilação de ES6 para outras versões dos browsers, dai não precisa configurar o webpack, babel e etc;
